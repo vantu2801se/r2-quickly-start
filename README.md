@@ -20,7 +20,7 @@ cd r2-quickly-start
 
 - Start services
 ```sh
-- docker-compose up
+docker-compose up
 ```
 -
   - A folder data is generative contain data of application
