@@ -10,9 +10,18 @@ This resource to build as infrastructure emulator (mock on local) for r2-update-
 - Docker
 - Docker compose
 
-## Set up
-- Clone this resource to local
-- cd r2-quickly-start
+## Set up local
+- Clone this resource to your local
+- When execute bash
+- Go to workspace directory
+```sh
+cd r2-quickly-start
+```
+
+- Start services
+```sh
 - docker-compose up
+```
+-
   - A folder data is generative contain data of application
   - The infra ready for service use
